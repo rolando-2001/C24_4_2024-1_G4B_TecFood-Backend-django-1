@@ -101,8 +101,6 @@ AUTH_USER_MODEL = 'tecfood_admin.User'
 
 DATABASES = {
     'default': dj_database_url.config()
-    
-    
 
 }
 
