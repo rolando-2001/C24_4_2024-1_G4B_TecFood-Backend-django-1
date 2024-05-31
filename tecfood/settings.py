@@ -100,7 +100,7 @@ AUTH_USER_MODEL = 'tecfood_admin.User'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 DATABASES = {
-    'default': dj_database_url.config()
+   'default': dj_database_url.config()
 
 }
 
